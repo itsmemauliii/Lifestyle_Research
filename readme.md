@@ -2,10 +2,10 @@
 
 ### *MSc Big Data Analytics - Semester 3 Research Project*
 
-**Author:** Mauli Patel
-**Institution:** [St. Xavier's College, Ahmedabad]
-**Course:** MSc Big Data Analytics
-**Semester:** 3
+* **Author:** Mauli Patel
+* **Institution:** St. Xavier's College, Ahmedabad
+* **Course:** MSc Big Data Analytics
+* **Semester:** 3
 
 ---
 
