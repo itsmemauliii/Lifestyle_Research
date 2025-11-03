@@ -139,7 +139,7 @@ Example columns:
 
 ## Research Context
 
-This tool is developed as part of academic research in **behavioral data analytics** — focusing on how lifestyle factors correlate with mental wellbeing.
+This tool is developed as part of academic research in **behavioral data analytics**, focusing on how lifestyle factors correlate with mental wellbeing.
 It aims to serve as an **EDA + clustering prototype** for larger-scale mental health analytics projects.
 
 ---
@@ -164,13 +164,13 @@ If you use this project or its methodology for academic or research purposes, pl
 
 ## Author
 
-* **Mauli Aptel**
+* **Mauli Patel**
 * Data Science Student | MSc Big Data Analytics
 * [LinkedIn](https://linkedin.com/in/your-profile) 
 
 ---
 
-## Example `requirements.txt`
+## `requirements.txt`
 
 ```txt
 streamlit
