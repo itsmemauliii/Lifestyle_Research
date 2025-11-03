@@ -1,4 +1,4 @@
-# Lifestyle & Mental Health Recommender (Streamlit App)
+# Lifestyle & Mental Health Recommender (Web App)
 
 ### *MSc Big Data Analytics - Semester 3 Research Project*
 
@@ -23,7 +23,7 @@ This work is part of my **Semester 3 MSc Big Data Analytics research project**, 
 * Automate preprocessing of lifestyle survey data (handling missing values, normalization, and encoding).
 * Use **unsupervised learning (K-Means clustering)** to segment users by behavioral and wellness traits.
 * Enable instant visual feedback through interactive charts and summary metrics.
-* Optimize performance with **lazy imports** — clustering only runs when triggered by the user.
+* Optimize performance with **lazy imports**, clustering only runs when triggered by the user.
 * Build a **deployable Streamlit web app** for real-time data exploration.
 
 ---
@@ -73,8 +73,8 @@ Lifestyle-MentalHealth-Recommender/
 1. **Clone this repository**
 
    ```bash
-   git clone https://github.com/yourusername/lifestyle-recommender.git
-   cd lifestyle-recommender
+   git clone https://github.com/itsmemauliii/lifestyle-research.git
+   cd lifestyle-research
    ```
 
 2. **Install dependencies**
