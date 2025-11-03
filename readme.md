@@ -1,9 +1,9 @@
 # Lifestyle & Mental Health Recommender (Streamlit App)
 
-### *MSc Big Data Analytics — Semester 3 Research Project*
+### *MSc Big Data Analytics - Semester 3 Research Project*
 
-**Author:** Mauli Aptel
-**Institution:** [Your University Name]
+**Author:** Mauli Patel
+**Institution:** [St. Xavier's College, Ahmedabad]
 **Course:** MSc Big Data Analytics
 **Semester:** 3
 
